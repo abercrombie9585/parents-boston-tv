@@ -1,0 +1,954 @@
+{
+  "updated_utc": "2026-09-07T08:24:40.506104+00:00",
+  "programmes": 8673,
+  "groups": {
+    "Massachusetts": {
+      "entries": 20,
+      "with_future_listings": 0
+    },
+    "LocalNow": {
+      "entries": 447,
+      "with_future_listings": 426
+    },
+    "FreeLiveSports": {
+      "entries": 125,
+      "with_future_listings": 0
+    },
+    "XUMO": {
+      "entries": 389,
+      "with_future_listings": 323
+    }
+  },
+  "latest_programme_end": "20260908044200 +0000",
+  "source_errors": [],
+  "uncovered": [
+    {
+      "name": "ABC 5 Boston MA (WCVB) (720p)",
+      "group": "Massachusetts | Series"
+    },
+    {
+      "name": "AFTV (1080p)",
+      "group": "Massachusetts | General"
+    },
+    {
+      "name": "BATV Educational Channel",
+      "group": "Massachusetts | Education"
+    },
+    {
+      "name": "BATV Government Channel",
+      "group": "Massachusetts | Legislative"
+    },
+    {
+      "name": "BATV Public Channel",
+      "group": "Massachusetts | General"
+    },
+    {
+      "name": "Best of BATV Channel",
+      "group": "Massachusetts | General"
+    },
+    {
+      "name": "BIG Civic Channel",
+      "group": "Massachusetts | General"
+    },
+    {
+      "name": "BIG Community Channel",
+      "group": "Massachusetts | General"
+    },
+    {
+      "name": "BMC-HD TV (720p)",
+      "group": "Massachusetts | General"
+    },
+    {
+      "name": "BUTV10 (Boston University) (1080p) [Not 24/7]",
+      "group": "Massachusetts | Education"
+    },
+    {
+      "name": "Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked]",
+      "group": "Massachusetts | General"
+    },
+    {
+      "name": "Leominster TV Educational (720p)",
+      "group": "Massachusetts | Education"
+    },
+    {
+      "name": "Leominster TV Government (720p)",
+      "group": "Massachusetts | Legislative"
+    },
+    {
+      "name": "Leominster TV Public (720p) [Not 24/7]",
+      "group": "Massachusetts | General"
+    },
+    {
+      "name": "LGTV (1080p)",
+      "group": "Massachusetts | Legislative"
+    },
+    {
+      "name": "Natick Education Channel (720p)",
+      "group": "Massachusetts | Education"
+    },
+    {
+      "name": "Natick Government Channel (720p)",
+      "group": "Massachusetts | Legislative"
+    },
+    {
+      "name": "Natick Public Access Channel (720p)",
+      "group": "Massachusetts | General"
+    },
+    {
+      "name": "Tele Boston (480p)",
+      "group": "Massachusetts | Entertainment"
+    },
+    {
+      "name": "WFXT-DT2 (1080p)",
+      "group": "Massachusetts | Movies"
+    },
+    {
+      "name": "Local Now NYC",
+      "group": "LocalNow🇺🇸: My City"
+    },
+    {
+      "name": "Spend Smart",
+      "group": "LocalNow🇺🇸: News And Opinion"
+    },
+    {
+      "name": "Action Hollywood Movies",
+      "group": "LocalNow🇺🇸: Action"
+    },
+    {
+      "name": "Conflict",
+      "group": "LocalNow🇺🇸: Action"
+    },
+    {
+      "name": "Trailer Park Boys",
+      "group": "LocalNow🇺🇸: Comedy"
+    },
+    {
+      "name": "Crime Beat TV",
+      "group": "LocalNow🇺🇸: Crime & Drama"
+    },
+    {
+      "name": "DECLASSIFIED",
+      "group": "LocalNow🇺🇸: Documentary"
+    },
+    {
+      "name": "Non-Stop '90s",
+      "group": "LocalNow🇺🇸: Movies and TV"
+    },
+    {
+      "name": "that's 70s",
+      "group": "LocalNow🇺🇸: Music and Arts"
+    },
+    {
+      "name": "that's 80s",
+      "group": "LocalNow🇺🇸: Music and Arts"
+    },
+    {
+      "name": "that's Rock",
+      "group": "LocalNow🇺🇸: Music and Arts"
+    },
+    {
+      "name": "H2O TV",
+      "group": "LocalNow🇺🇸: Nature and Outdoors"
+    },
+    {
+      "name": "WFFT (FOX) News 55 Fort Wayne IN",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "Erie News Now",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "WTHI (CBS) News 10 Terre Haute IN",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "WENY News Elmira NY",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "WAAY (ABC) News 31 Huntsville AL",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "WSIL Paducah KY",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "WEVV (CBS) News 44 Evansville IN",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "WTVA (NBC) News 9 Tupelo MS",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "WREX Rockford IL",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "Willow Sports",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "The Tennis Channel",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Sports Illustrated TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Tennis Channel T2",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "MTRSPT1",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Billiard TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Unbeaten (Worldwide)",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Unbeaten (North America)",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Swerve Combat",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "World Surf League",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Red Bull TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Red Bull TV (UK / IE)",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Red Bull TV (Spain)",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Red Bull TV (France / Switzerland)",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Cowboy+ Sports",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "MSG Sports Zone",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Eurovision Sport",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Premier League Lacrosse (Int')",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "World Poker Tour",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Free Live Sports",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Absinthe TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Pickle TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Big 12 Network",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Wired2Fish",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Harlem Globetrotters",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Pac 12 Insider",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Joel Osteen network",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "GLORY Kickboxing",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "NASCAR",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Stadium",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "beIN Sports Xtra",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "beIN Sports Xtra en Espanol",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "SportsGrid",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "GFN Soccer TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "HOOP TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Goal TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "HOMERUN TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "ACE TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "BigPlay",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "AYM Sports",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Sports Connect",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "RACER International",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "RACER Select",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "SPEEDVISION",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "MotorRacing",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Powersports World",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "NHRA",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "RPM Motorsport",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "FloRacing",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Motorvision",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "SPEED SPORT 1",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Tennis TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Pickleball TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "My Padel TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "ACC Digital Network",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "PokerGO",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Poker Night In America",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "WPT Live!",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "WPT Spain",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "PFL",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "TNA Wrestling Channel",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Lucha Plus",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "United Fight Alliance",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "FIGHT NETWORK",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Hard Knocks",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "MVMT Culture",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Fite 24/7",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "MMA TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Inside Arm Wrestling",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Surf Cinema",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "GoPro",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "InTrouble",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "World of Freesports",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "HorizonSports",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Extreme",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "FUEL TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Adventure Zone Sports Network",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Swerve Women's Sports",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Overtime",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "DFB Play",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Top Barca",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Top Barca en Espanyol",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Cricket Gold",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Perfect Game TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Premier League Lacrosse US",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Lacrosse Channel",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Cornhole TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Foosball TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Kozoom",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Bowling TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "World Chase Tag",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Strongman Champions League",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "TyC Sports",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Horse & Country",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "GCTV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Horse TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "GAME & FISH TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Field & Stream",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Waypoint TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Hunt Fish TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Sports Fishing",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Pursuit UP",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "H20 TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Skull Bound TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "The Therapy Crouch",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Choppertown",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Omstars TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "MORE U",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Commune",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "TRACE Sport Stars",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Cirque du Soleil",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Danger TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "The Boat Show",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "That Peter Crouch Podcast",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "American Stories Network",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "eClutch Access",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Escape TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Shooting Sports Life",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Drone TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Documentary+",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Action Plus",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Popular Science",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Golf Network",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "RVTV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "POWERtube TV",
+      "group": "FreeLiveSports"
+    },
+    {
+      "name": "Investigation",
+      "group": "XUMO🇺🇸: Crime TV"
+    },
+    {
+      "name": "HerSphere by Lionsgate",
+      "group": "XUMO🇺🇸: Movies"
+    },
+    {
+      "name": "Team USA TV",
+      "group": "XUMO🇺🇸: Sports"
+    },
+    {
+      "name": "ACC Digital Network",
+      "group": "XUMO🇺🇸: Sports"
+    },
+    {
+      "name": "Billiard TV",
+      "group": "XUMO🇺🇸: Sports"
+    },
+    {
+      "name": "DraftKings Network",
+      "group": "XUMO🇺🇸: Sports"
+    },
+    {
+      "name": "FanDuel TV Extra",
+      "group": "XUMO🇺🇸: Sports"
+    },
+    {
+      "name": "Big 12 Studios",
+      "group": "XUMO🇺🇸: Sports"
+    },
+    {
+      "name": "Motorvision",
+      "group": "XUMO🇺🇸: Automotive"
+    },
+    {
+      "name": "Court TV",
+      "group": "XUMO🇺🇸: Crime TV"
+    },
+    {
+      "name": "Court TV Legendary Trials",
+      "group": "XUMO🇺🇸: Crime TV"
+    },
+    {
+      "name": "World's Wildest Police Videos",
+      "group": "XUMO🇺🇸: Crime TV"
+    },
+    {
+      "name": "LOL Network",
+      "group": "XUMO🇺🇸: Black Voices. Black Stories."
+    },
+    {
+      "name": "Just for Laughs Comedy",
+      "group": "XUMO🇺🇸: Comedy"
+    },
+    {
+      "name": "Fork & Flight",
+      "group": "XUMO🇺🇸: Food"
+    },
+    {
+      "name": "eScapes",
+      "group": "XUMO🇺🇸: Travel & Lifestyle"
+    },
+    {
+      "name": "GoTraveler",
+      "group": "XUMO🇺🇸: Travel & Lifestyle"
+    },
+    {
+      "name": "Declassified",
+      "group": "XUMO🇺🇸: History & Learning"
+    },
+    {
+      "name": "Barney and Friends",
+      "group": "XUMO🇺🇸: Kids"
+    },
+    {
+      "name": "Shaun the Sheep & Friends",
+      "group": "XUMO🇺🇸: Kids"
+    },
+    {
+      "name": "OK Gamer",
+      "group": "XUMO🇺🇸: Kids"
+    },
+    {
+      "name": "The Ellen Channel",
+      "group": "XUMO🇺🇸: Daytime TV"
+    },
+    {
+      "name": "Boston 25",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "Action News Jax",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "CBS News Chicago",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "KIRO Seattle",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "WPXI Pittsburgh",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "CBS News Bay Area",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "CBS News New York",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC 10 Boston News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "WFTV Orlando",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "CBS News Los Angeles",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC 5 Chicago News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC 4 Washington News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC 10 Philadelphia News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC 4 New York News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "Telemundo Noticias Florida",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC 6 South Florida News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "Telemundo Noticias Noreste",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "WSOC Charlotte",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC Bay Area News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "News 12 New York",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC 5 Dallas-Fort Worth News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "Telemundo Noticias California",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "Telemundo Noticias Texas",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC 4 Los Angeles News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC 7 San Diego News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "WHIO Dayton",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "NBC Connecticut News",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Seattle",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Dallas-Fort Worth",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Minneapolis",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Houston",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Phoenix",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Austin",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Los Angeles",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL San Francisco",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Atlanta",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Chicago",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Milwaukee",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Detroit",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL New York",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Orlando",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Washington DC",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Tampa Bay",
+      "group": "XUMO🇺🇸: Local News"
+    },
+    {
+      "name": "FOX LOCAL Philadelphia",
+      "group": "XUMO🇺🇸: Local News"
+    }
+  ]
+}
