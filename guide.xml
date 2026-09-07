@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="Parents Boston TV" date="20260907082440 +0000">
+<tv generator-info-name="Parents Boston TV" date="20260907082558 +0000">
   <channel id="LN_00C9AEC1-8DF8-4F80-88FD-19DF47C40D53">
     <display-name>Laff More</display-name>
   </channel>
@@ -2437,6 +2437,10 @@ Part of the Locked On Podcast Network.</desc>
 
 Part of the Locked On Podcast Network</desc>
   </programme>
+  <programme channel="LN_0809C39C-DE1C-464C-ACA0-87DF90E1DD17" start="20260907100800 +0000" stop="20260907104200 +0000">
+    <title lang="en">Locked On AL East</title>
+    <desc lang="en">Latest analysis and reaction from the Blue Jays, Orioles, Rays, and Red Sox</desc>
+  </programme>
   <programme channel="LN_081016AD-69A3-4236-A8A0-75391DB6F522" start="20260907070826 +0000" stop="20260907091153 +0000">
     <title lang="en">MST3K: Future War</title>
     <desc lang="en">A man enslaved by aliens escapes to contemporary Los Angeles, where he is hunted by cyborgs and dinosaurs.</desc>
@@ -2631,6 +2635,10 @@ Part of the Locked On Podcast Network</desc>
   </programme>
   <programme channel="LN_0DA6A863-18F9-41DF-BBDE-BB6B3FB5E340" start="20260907100000 +0000" stop="20260907110000 +0000">
     <title lang="en">ABC 6 NEWS GOOD MORNING AT 5:00 AM (LIVE)</title>
+    <desc lang="en">Local and national news along with weather to help get your day started provided by the ABC6 News Team.</desc>
+  </programme>
+  <programme channel="LN_0DA6A863-18F9-41DF-BBDE-BB6B3FB5E340" start="20260907110000 +0000" stop="20260907120000 +0000">
+    <title lang="en">ABC 6 NEWS GOOD MORNING AT 6:00 AM (LIVE)</title>
     <desc lang="en">Local and national news along with weather to help get your day started provided by the ABC6 News Team.</desc>
   </programme>
   <programme channel="LN_0EAB5096-8CB3-4B61-9FCD-2E862D70E638" start="20260907080000 +0000" stop="20260907083000 +0000">
@@ -2969,6 +2977,10 @@ Part of the Locked On Podcast Network</desc>
     <title lang="en">How Trump's ICE Raids Are Damaging Businesses</title>
     <desc lang="en">Trump administration raids in Charlotte, North Carolina, set off a chain reaction: damaging local businesses and potentially causing long-term economic harm. New data reveals how the deportation campaign may leave social and economic voids.</desc>
   </programme>
+  <programme channel="LN_17A361D7-7DE9-4A8A-BD5B-BE4A930573FA" start="20260907091500 +0000" stop="20260907093000 +0000">
+    <title lang="en">Why Space Companies Are Betting Big on Texas</title>
+    <desc lang="en">Already home to SpaceX, Blue Origin and recent moon-landers Firefly Aerospace and Intuitive Machines, Texas is quickly becoming the center of the commercial space universe.</desc>
+  </programme>
   <programme channel="LN_195280D1-654A-45BE-BCCB-556B9E56CA80" start="20260907081325 +0000" stop="20260907084325 +0000">
     <title lang="en">Storm Hunters | Outbreak! Part 1</title>
     <desc lang="en">Stormhunters embark on their most epic tornado chase ever, breaking their own records and catching once in a lifetime views. ⇥</desc>
@@ -3112,6 +3124,10 @@ Part of the Locked On Podcast Network.</desc>
     <desc lang="en">Locked On NFL is a daily NFL podcast giving you football news, updates, rumors, and analysis in 30 minutes from the local expects of the Locked on Podcast Network. 
 
 Part of the Locked On Podcast Network.</desc>
+  </programme>
+  <programme channel="LN_1C62948D-D926-43A3-93F6-86EEC49CC051" start="20260907103800 +0000" stop="20260907111200 +0000">
+    <title lang="en">Locked On Sports Today</title>
+    <desc lang="en">On Locked On Sports Today, host Peter Bukowski goes beyond the scoreboard with local experts to bring you the biggest stories from around the sports world.</desc>
   </programme>
   <programme channel="LN_1C9943C5-A055-4CEB-9ED4-A184056D102F" start="20260907080000 +0000" stop="20260907083000 +0000">
     <title lang="en">CombiNATION Plates</title>
@@ -3509,6 +3525,10 @@ Part of the Locked On Podcast Network.</desc>
     <title lang="en">Some More Of Samoa</title>
     <desc lang="en">The Stooges are tree surgeons.</desc>
   </programme>
+  <programme channel="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" start="20260907094526 +0000" stop="20260907100750 +0000">
+    <title lang="en">Squareheads Of The Round Table</title>
+    <desc lang="en">The Stooges help their friend Cedric the Blacksmith.</desc>
+  </programme>
   <programme channel="LN_2CBA0D4D-8829-4B49-A7E4-F48AA2E1A144" start="20260907080000 +0000" stop="20260907083000 +0000">
     <title lang="en">Latest New York News &amp; Headlines</title>
     <desc lang="en">Top stories in New York.</desc>
@@ -3749,10 +3769,6 @@ Part of the Locked On Podcast Network.</desc>
     <title lang="en">Handguns</title>
     <desc lang="en">A look at some of the best new carry guns on the market.</desc>
   </programme>
-  <programme channel="LN_30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43" start="20260907075400 +0000" stop="20260907082500 +0000">
-    <title lang="en">The Dick Van Dyke Show</title>
-    <desc lang="en">An underworld figure involves Rob, Sally and Buddy in an unusual writing assignment.</desc>
-  </programme>
   <programme channel="LN_30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43" start="20260907082500 +0000" stop="20260907085500 +0000">
     <title lang="en">The Dick Van Dyke Show</title>
     <desc lang="en">Rob and Jerry invest in a sailboat and find they have embarked on a disastrous venture.</desc>
@@ -3768,6 +3784,10 @@ Part of the Locked On Podcast Network.</desc>
   <programme channel="LN_30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43" start="20260907095500 +0000" stop="20260907102500 +0000">
     <title lang="en">The Dick Van Dyke Show</title>
     <desc lang="en">The entire "Alan Brady" staff presents a Christmas show instead of the script.</desc>
+  </programme>
+  <programme channel="LN_30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43" start="20260907102500 +0000" stop="20260907105300 +0000">
+    <title lang="en">The Dick Van Dyke Show</title>
+    <desc lang="en">A chorus girl on "The Alan Brady Show" falls desperately in love with Rob.</desc>
   </programme>
   <programme channel="LN_30B61515-AF21-4CCD-B041-969C99958CCB" start="20260907080000 +0000" stop="20260907090000 +0000">
     <title lang="en">Very Boston by WCVB</title>
@@ -4325,6 +4345,10 @@ Part of the Locked On Podcast Network.</desc>
     <title lang="en">Forensic Files</title>
     <desc lang="en">A pregnant woman is found murdered in her air-conditioned bedroom.</desc>
   </programme>
+  <programme channel="LN_41830D3A-37B5-4C6C-B242-A08B82B441D9" start="20260907100000 +0000" stop="20260907102700 +0000">
+    <title lang="en">Forensic Files</title>
+    <desc lang="en">An obscure print found at a crime scene.</desc>
+  </programme>
   <programme channel="LN_41AD64FE-AD4E-4B54-AEB3-C83BB0E6E829" start="20260907080000 +0000" stop="20260907100000 +0000">
     <title lang="en">The Alex Marlow Show</title>
     <desc lang="en">Voice of reason in a chaotic time.</desc>
@@ -4520,6 +4544,10 @@ Part of the Locked On Podcast Network.</desc>
   <programme channel="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7" start="20260907094900 +0000" stop="20260907101900 +0000">
     <title lang="en">The Beverly Hillbillies</title>
     <desc lang="en">A family reluctantly exchanges a one-room mountain cabin for $25 million and a 35-room mansion.</desc>
+  </programme>
+  <programme channel="LN_4571DFCC-78BE-46A8-9808-E7E9A312FCC7" start="20260907101900 +0000" stop="20260907111400 +0000">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Little Joe and Hoss seek Joe's date, who disappeared while the trio was at a carnival.</desc>
   </programme>
   <programme channel="LN_45A8BAAC-64A3-4D51-AE48-3C12AC8E0A17" start="20260907080000 +0000" stop="20260907083000 +0000">
     <title lang="en">Cops Reloaded</title>
@@ -5549,10 +5577,6 @@ Part of the Locked On Podcast Network.</desc>
     <title lang="en">Montana This Morning</title>
     <desc lang="en">KBZK News in Boseman - The latest local and national news and local weather, traffic and sports.</desc>
   </programme>
-  <programme channel="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662" start="20260907075900 +0000" stop="20260907082500 +0000">
-    <title lang="en">The Red Green Show</title>
-    <desc lang="en">Harold and Red try to turn the Lodge into a bed and breakfast, with Mike Hamar as a test customer.</desc>
-  </programme>
   <programme channel="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662" start="20260907082500 +0000" stop="20260907085200 +0000">
     <title lang="en">The Red Green Show</title>
     <desc lang="en">To get their unemployment benefits back, the men of the Lodge pretend to work for each other.</desc>
@@ -5569,9 +5593,9 @@ Part of the Locked On Podcast Network.</desc>
     <title lang="en">Red Green - Bonus Material</title>
     <desc lang="en">The men reminisce about their time at the Lodge.</desc>
   </programme>
-  <programme channel="LN_64794595-37F9-4BC8-AA16-3C4F66E6E365" start="20260907075312 +0000" stop="20260907082555 +0000">
-    <title lang="en">Dinner at Julia's</title>
-    <desc lang="en">Julia Child hopes to catch salmon for her main course. With Douglas Grech and Zelma Long.</desc>
+  <programme channel="LN_61FD3E40-54BC-4E1E-9BB1-40B60DDD6662" start="20260907111300 +0000" stop="20260907122800 +0000">
+    <title lang="en">Red Green - Bonus Material</title>
+    <desc lang="en">A collection of bits from the first six seasons (1991-1996). According to the title character, "A lot's been written about the differences between men and women, in fact way too much. That's why I've decided to tackle this subject on video. With help f...</desc>
   </programme>
   <programme channel="LN_64794595-37F9-4BC8-AA16-3C4F66E6E365" start="20260907082555 +0000" stop="20260907085752 +0000">
     <title lang="en">Dinner at Julia's</title>
@@ -5588,6 +5612,10 @@ Part of the Locked On Podcast Network.</desc>
   <programme channel="LN_64794595-37F9-4BC8-AA16-3C4F66E6E365" start="20260907100105 +0000" stop="20260907103259 +0000">
     <title lang="en">Dinner at Julia's</title>
     <desc lang="en">Julia makes her classic Leg of Lamb Roast. With Moncef Meddeb and Richard Sanford.</desc>
+  </programme>
+  <programme channel="LN_64794595-37F9-4BC8-AA16-3C4F66E6E365" start="20260907103259 +0000" stop="20260907110014 +0000">
+    <title lang="en">The Mind of a Chef</title>
+    <desc lang="en">Magnus Nilsson explores how Scandinavians preserve and age food.</desc>
   </programme>
   <programme channel="LN_6521CF71-9C6D-4BA9-AC24-710BBF841EE7" start="20260907080000 +0000" stop="20260907090000 +0000">
     <title lang="en">CBS News National</title>
@@ -7309,6 +7337,10 @@ $100,000 grand prize.</desc>
     <title lang="en">Mysteries at the Museum</title>
     <desc lang="en">Don examines a railway robbery, otherworldly lights and a sea monster.</desc>
   </programme>
+  <programme channel="LN_93B6C05F-675F-4ED1-8FF9-942FDA693714" start="20260907113950 +0000" stop="20260907123102 +0000">
+    <title lang="en">Mysteries at the Museum</title>
+    <desc lang="en">Host Don Wildman examines a copy of a play, a monocular, and a wrapper.</desc>
+  </programme>
   <programme channel="LN_94E2B4B1-CE5F-4DB5-9FDC-7DE20DD614E0" start="20260907080000 +0000" stop="20260907090000 +0000">
     <title lang="en">The National Report</title>
     <desc lang="en">Join Scripps News journalists for fast-paced headlines and stories from across America.</desc>
@@ -8433,10 +8465,6 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">In Your Neighborhood</title>
     <desc lang="en">25 ABC News KXXV in Central Texas - The latest local and national news and local weather, traffic and sports.</desc>
   </programme>
-  <programme channel="LN_BA36AB16-A856-4A9B-9DB4-9A39375F36A4" start="20260907080000 +0000" stop="20260907082500 +0000">
-    <title lang="en">National News Now</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-  </programme>
   <programme channel="LN_BA36AB16-A856-4A9B-9DB4-9A39375F36A4" start="20260907082500 +0000" stop="20260907090000 +0000">
     <title lang="en">Local News</title>
     <desc lang="en">Newscast covering local topics and events.</desc>
@@ -8452,6 +8480,10 @@ Part of the Locked on Podcast Network.</desc>
   <programme channel="LN_BA36AB16-A856-4A9B-9DB4-9A39375F36A4" start="20260907100000 +0000" stop="20260907110000 +0000">
     <title lang="en">Local News</title>
     <desc lang="en">Newscast covering local topics and events.</desc>
+  </programme>
+  <programme channel="LN_BA36AB16-A856-4A9B-9DB4-9A39375F36A4" start="20260907110000 +0000" stop="20260907120000 +0000">
+    <title lang="en">Latest Local News</title>
+    <desc lang="en">Newscast covering important local topics and events.</desc>
   </programme>
   <programme channel="LN_BAA7B0C1-76FD-4DDD-87EA-7034BD93028F" start="20260907073820 +0000" stop="20260907091821 +0000">
     <title lang="en">Pesca mortal</title>
@@ -9193,12 +9225,6 @@ Part of the Locked on Podcast Network.</desc>
     <title lang="en">Live: NBC CT News Today @ 6AM</title>
     <desc lang="en">Local news, weather and investigative stories impacting the Connecticut area.</desc>
   </programme>
-  <programme channel="LN_D2300A27-E817-470E-86DD-04E2B176F870" start="20260907075133 +0000" stop="20260907082533 +0000">
-    <title lang="en">Locked On NBA</title>
-    <desc lang="en">Locked On NBA is your daily NBA podcast breaking down games, basketball news, updates, and rumors in 30 minutes, hosted by local experts from across the Locked On Podcast Network.
-
-Part of the Locked On Podcast Network.</desc>
-  </programme>
   <programme channel="LN_D2300A27-E817-470E-86DD-04E2B176F870" start="20260907082533 +0000" stop="20260907085933 +0000">
     <title lang="en">Locked On Women's Basketball</title>
     <desc lang="en">Local experts. Biggest stories. Every day. Locked On NBA brings you 24/7 coverage of the biggest stories in the world of professional hoops, featuring daily episodes from popular Locked On shows including Locked On NBA, Locked On Fantasy Basketball, Locked On NBA Big Board, Locked On Women's Basketball and more. From game previews to fantasy basketball moves, trade rumors to postgame breakdowns, Locked On’s roster of team and league experts have you covered all day, every day.</desc>
@@ -9213,6 +9239,10 @@ Part of the Locked On Podcast Network.</desc>
   </programme>
   <programme channel="LN_D2300A27-E817-470E-86DD-04E2B176F870" start="20260907100733 +0000" stop="20260907104133 +0000">
     <title lang="en">Clippers</title>
+    <desc lang="en">Local experts. Biggest stories. Every day. Locked On NBA brings you 24/7 coverage of the biggest stories in the world of professional hoops, featuring daily episodes from popular Locked On shows including Locked On NBA, Locked On Fantasy Basketball, Locked On NBA Big Board, Locked On Women's Basketball and more. From game previews to fantasy basketball moves, trade rumors to postgame breakdowns, Locked On’s roster of team and league experts have you covered all day, every day.</desc>
+  </programme>
+  <programme channel="LN_D2300A27-E817-470E-86DD-04E2B176F870" start="20260907104133 +0000" stop="20260907111533 +0000">
+    <title lang="en">Raptors</title>
     <desc lang="en">Local experts. Biggest stories. Every day. Locked On NBA brings you 24/7 coverage of the biggest stories in the world of professional hoops, featuring daily episodes from popular Locked On shows including Locked On NBA, Locked On Fantasy Basketball, Locked On NBA Big Board, Locked On Women's Basketball and more. From game previews to fantasy basketball moves, trade rumors to postgame breakdowns, Locked On’s roster of team and league experts have you covered all day, every day.</desc>
   </programme>
   <programme channel="LN_D2459C8C-B921-49DE-A840-8BACDF18E771" start="20260907080442 +0000" stop="20260907085416 +0000">
@@ -9570,6 +9600,10 @@ Part of the Locked On Podcast Network.</desc>
   <programme channel="LN_DD251713-B795-44EA-9E95-AC47A6096B15" start="20260907095300 +0000" stop="20260907102300 +0000">
     <title lang="en">Great Family Adventure</title>
     <desc lang="en">Pro kayakers Nick Troutman and Emily Jackson and family head to the kayaking freestyle championship in Oklahoma City.</desc>
+  </programme>
+  <programme channel="LN_DD251713-B795-44EA-9E95-AC47A6096B15" start="20260907102300 +0000" stop="20260907105300 +0000">
+    <title lang="en">Neven’s Irish Seafood Trails</title>
+    <desc lang="en">Neven Maguire's search for the finest and freshest produce takes him to Kerry, West Cork, Mayo, Galway, Louth and Clare. Maguire meets different fisherman, chefs and manager's in this exploratory journey.</desc>
   </programme>
   <programme channel="LN_DD4CB97A-CD5E-4850-BB1A-59F15A501BB2" start="20260907080000 +0000" stop="20260907083000 +0000">
     <title lang="en">Voices With Jawan Strader</title>
@@ -10064,6 +10098,10 @@ Part of the Locked On Podcast Network.</desc>
     <desc lang="en">Stephen Mulhern hosts as one of the brave contestants takes on the infamous Banker.</desc>
   </programme>
   <programme channel="LN_EF37B5DC-D83E-4E11-BD19-6018F6C92938" start="20260907105536 +0000" stop="20260907112015 +0000">
+    <title lang="en">Deal or No Deal Australia (Reboot)</title>
+    <desc lang="en">The hit game show where contestants must beat the Banker to win a huge cash prize of $100,000.</desc>
+  </programme>
+  <programme channel="LN_EF37B5DC-D83E-4E11-BD19-6018F6C92938" start="20260907112015 +0000" stop="20260907114548 +0000">
     <title lang="en">Deal or No Deal Australia (Reboot)</title>
     <desc lang="en">The hit game show where contestants must beat the Banker to win a huge cash prize of $100,000.</desc>
   </programme>
@@ -17320,12 +17358,6 @@ Part of the Locked On Podcast Network.</desc>
     <desc lang="en">The mistress of a conductor becomes a target for murder after threatening to tell all to her lover's wife.</desc>
     <sub-title lang="en">Étude in Black</sub-title>
     <episode-num system="dd_progid">EP000010050010</episode-num>
-  </programme>
-  <programme start="20260907080100 +0000" stop="20260907082500 +0000" channel="XUMO_99951247">
-    <title lang="en">Saved by the Bell</title>
-    <desc lang="en">A costume ball sets the stage for Zack and Kelly (Mark-Paul Gosselaar, Tiffani-Amber Thiessen) to examine their relationship.</desc>
-    <sub-title lang="en">The Last Dance</sub-title>
-    <episode-num system="dd_progid">EP000186570052</episode-num>
   </programme>
   <programme start="20260907082500 +0000" stop="20260907084900 +0000" channel="XUMO_99951247">
     <title lang="en">Saved by the Bell</title>
@@ -29059,12 +29091,6 @@ Part of the Locked On Podcast Network.</desc>
     <sub-title lang="en">Fighting Spirit</sub-title>
     <episode-num system="dd_assetid">XT0O71TKSWFNR8</episode-num>
   </programme>
-  <programme start="20260907075938 +0000" stop="20260907082523 +0000" channel="XUMO_99951442">
-    <title lang="en">My Little Pony: Friendship Is Magic</title>
-    <desc lang="en">The Cutie Mark Crusaders get sent by the Cutie Map to Mount Aris to help a young Hippogriff.</desc>
-    <sub-title lang="en">Surf and/or Turf</sub-title>
-    <episode-num system="dd_assetid">XT0URJX01FROT6</episode-num>
-  </programme>
   <programme start="20260907082523 +0000" stop="20260907085108 +0000" channel="XUMO_99951442">
     <title lang="en">My Little Pony: Friendship Is Magic</title>
     <desc lang="en">Twilight Sparkle casts Princess Celestia in her stage play.</desc>
@@ -39776,12 +39802,6 @@ Part of the Locked On Podcast Network.</desc>
     <sub-title lang="en">Casefiles</sub-title>
     <episode-num system="dd_progid">EP064888130001</episode-num>
   </programme>
-  <programme start="20260907075455 +0000" stop="20260907082456 +0000" channel="XUMO_99991293">
-    <title lang="en">This Old House Season 41</title>
-    <desc lang="en">Original leaded glass windows are repaired. Jenn and Fred plant a bed of perennials along the new driveway. Mini splits solve a ductwork problem. Homeowner Molly and her designer Shelby make design decisions. Tommy tackles tricky original trim.</desc>
-    <sub-title lang="en">Cape Ann: Window on Restoration</sub-title>
-    <episode-num system="dd_assetid">XM0UQ8LZRJ7ZRI</episode-num>
-  </programme>
   <programme start="20260907082456 +0000" stop="20260907085252 +0000" channel="XUMO_99991293">
     <title lang="en">Ask This Old House TV</title>
     <desc lang="en">Coming up on this episode of Ask This Old House A homeowner has never tiled before, so Tom teaches her how using a simple technique; Richard demonstrates a wireless leak detector that prevents floods; Jenn installs a water feature that collects and reuses rainwater.   How to Install a Simple Tile Backsplash Tom teaches a homeowner a simple technique for tiling backsplash.   Where to find it?</desc>
@@ -41403,12 +41423,6 @@ Part of the Locked On Podcast Network.</desc>
     <title lang="en">My Love From the Star</title>
     <desc lang="en">Song Yi is troubled after finding out Min Joon's secret and goes out to find Min Joon.</desc>
     <episode-num system="dd_assetid">XM0Y7VZPTUEPIQ</episode-num>
-  </programme>
-  <programme start="20260907072902 +0000" stop="20260907082555 +0000" channel="XUMO_99991349">
-    <title lang="en">It's Showtime at the Apollo</title>
-    <desc lang="en">Christopher Williams performs, The Good Girls sing, comedy by Doug E. Doug and former NFL player David Reavis.</desc>
-    <sub-title lang="en">Episode 14</sub-title>
-    <episode-num system="dd_assetid">XM0FD5RZ8O8VGV</episode-num>
   </programme>
   <programme start="20260907082555 +0000" stop="20260907092243 +0000" channel="XUMO_99991349">
     <title lang="en">It's Showtime at the Apollo</title>
