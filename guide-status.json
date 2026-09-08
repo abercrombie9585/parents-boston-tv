@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-08T19:58:00.901017+00:00",
-  "programmes": 13644,
+  "updated_utc": "2026-09-08T22:45:44.784789+00:00",
+  "programmes": 12468,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 425
+      "with_future_listings": 423
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -171,6 +171,10 @@
       "group": "LocalNow🇺🇸: More Cities"
     },
     {
+      "name": "WLFI (CBS) News 16 Lafayette IN",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
       "name": "WAAY (ABC) News 31 Huntsville AL",
       "group": "LocalNow🇺🇸: More Cities"
     },
@@ -180,6 +184,10 @@
     },
     {
       "name": "WEVV (CBS) News 44 Evansville IN",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "KADN (FOX) News 15 Lafayette LA",
       "group": "LocalNow🇺🇸: More Cities"
     },
     {
