@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-08T11:29:25.736773+00:00",
-  "programmes": 17097,
+  "updated_utc": "2026-09-08T16:44:29.013798+00:00",
+  "programmes": 14909,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 426
+      "with_future_listings": 425
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -124,6 +124,10 @@
     },
     {
       "name": "Crime Beat TV",
+      "group": "LocalNow🇺🇸: Crime & Drama"
+    },
+    {
+      "name": "21 Jump Street",
       "group": "LocalNow🇺🇸: Crime & Drama"
     },
     {
