@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-10T22:40:21.149738+00:00",
-  "programmes": 12548,
+  "updated_utc": "2026-09-11T01:13:16.285038+00:00",
+  "programmes": 11524,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -16,7 +16,7 @@
     },
     "XUMO": {
       "entries": 389,
-      "with_future_listings": 323
+      "with_future_listings": 322
     }
   },
   "latest_programme_end": "20260912040000 +0000",
@@ -785,6 +785,10 @@
     {
       "name": "The Ellen Channel",
       "group": "XUMO🇺🇸: Daytime TV"
+    },
+    {
+      "name": "WSB Atlanta",
+      "group": "XUMO🇺🇸: Local News"
     },
     {
       "name": "Boston 25",
