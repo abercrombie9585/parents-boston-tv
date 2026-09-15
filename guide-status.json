@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-15T13:41:16.050833+00:00",
-  "programmes": 16168,
+  "updated_utc": "2026-09-15T18:17:42.521405+00:00",
+  "programmes": 14272,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 411
+      "with_future_listings": 408
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -133,6 +133,18 @@
     {
       "name": "DECLASSIFIED",
       "group": "LocalNow🇺🇸: Documentary"
+    },
+    {
+      "name": "CNN Xpress",
+      "group": "LocalNow🇺🇸: En Espanol"
+    },
+    {
+      "name": "TuDiscovery",
+      "group": "LocalNow🇺🇸: En Espanol"
+    },
+    {
+      "name": "Crimen",
+      "group": "LocalNow🇺🇸: En Espanol"
     },
     {
       "name": "Construcciones Asombrosas",
