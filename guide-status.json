@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-15T01:35:08.738556+00:00",
-  "programmes": 11384,
+  "updated_utc": "2026-09-15T07:53:07.738594+00:00",
+  "programmes": 8828,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 423
+      "with_future_listings": 411
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -135,6 +135,38 @@
       "group": "LocalNow🇺🇸: Documentary"
     },
     {
+      "name": "Construcciones Asombrosas",
+      "group": "LocalNow🇺🇸: En Espanol"
+    },
+    {
+      "name": "Vidas Extremas",
+      "group": "LocalNow🇺🇸: En Espanol"
+    },
+    {
+      "name": "Bodas+",
+      "group": "LocalNow🇺🇸: En Espanol"
+    },
+    {
+      "name": "Expedientes Sobrenaturales",
+      "group": "LocalNow🇺🇸: En Espanol"
+    },
+    {
+      "name": "Paws & Claws",
+      "group": "LocalNow🇺🇸: Family and Faith"
+    },
+    {
+      "name": "Ghosts are Real",
+      "group": "LocalNow🇺🇸: Horror and SciFi"
+    },
+    {
+      "name": "Mysterious Worlds",
+      "group": "LocalNow🇺🇸: Horror and SciFi"
+    },
+    {
+      "name": "Sweet Escapes",
+      "group": "LocalNow🇺🇸: Lifestyle"
+    },
+    {
       "name": "Non-Stop '90s",
       "group": "LocalNow🇺🇸: Movies and TV"
     },
@@ -153,6 +185,22 @@
     {
       "name": "H2O TV",
       "group": "LocalNow🇺🇸: Nature and Outdoors"
+    },
+    {
+      "name": "Unique Lives",
+      "group": "LocalNow🇺🇸: Reality TV"
+    },
+    {
+      "name": "Love & Marriage",
+      "group": "LocalNow🇺🇸: Reality TV"
+    },
+    {
+      "name": "Family Unscripted",
+      "group": "LocalNow🇺🇸: Reality TV"
+    },
+    {
+      "name": "Discovery Turbo TV",
+      "group": "LocalNow🇺🇸: Sports"
     },
     {
       "name": "WFFT (FOX) News 55 Fort Wayne IN",
