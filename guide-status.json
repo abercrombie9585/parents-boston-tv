@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-18T11:29:10.639321+00:00",
-  "programmes": 16690,
+  "updated_utc": "2026-09-18T16:33:52.304331+00:00",
+  "programmes": 14535,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 408
+      "with_future_listings": 409
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -220,10 +220,6 @@
     },
     {
       "name": "Erie News Now",
-      "group": "LocalNow🇺🇸: More Cities"
-    },
-    {
-      "name": "WTHI (CBS) News 10 Terre Haute IN",
       "group": "LocalNow🇺🇸: More Cities"
     },
     {
