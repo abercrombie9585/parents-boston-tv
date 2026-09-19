@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-18T22:40:21.976346+00:00",
-  "programmes": 12189,
+  "updated_utc": "2026-09-19T01:17:55.639334+00:00",
+  "programmes": 11148,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -16,7 +16,7 @@
     },
     "XUMO": {
       "entries": 389,
-      "with_future_listings": 322
+      "with_future_listings": 320
     }
   },
   "latest_programme_end": "20260920070047 +0000",
@@ -841,6 +841,14 @@
     {
       "name": "The Ellen Channel",
       "group": "XUMO🇺🇸: Daytime TV"
+    },
+    {
+      "name": "Stingray Soul Storm",
+      "group": "XUMO🇺🇸: Music & Radio"
+    },
+    {
+      "name": "CBS News Boston",
+      "group": "XUMO🇺🇸: Local News"
     },
     {
       "name": "WSB Atlanta",
