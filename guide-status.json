@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-21T06:33:24.694603+00:00",
-  "programmes": 9261,
+  "updated_utc": "2026-09-21T14:21:25.850714+00:00",
+  "programmes": 15682,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 409
+      "with_future_listings": 411
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -19,7 +19,7 @@
       "with_future_listings": 318
     }
   },
-  "latest_programme_end": "20260922070000 +0000",
+  "latest_programme_end": "20260923041036 +0000",
   "source_errors": [],
   "uncovered": [
     {
@@ -227,10 +227,6 @@
       "group": "LocalNow🇺🇸: More Cities"
     },
     {
-      "name": "WLFI (CBS) News 16 Lafayette IN",
-      "group": "LocalNow🇺🇸: More Cities"
-    },
-    {
       "name": "WAAY (ABC) News 31 Huntsville AL",
       "group": "LocalNow🇺🇸: More Cities"
     },
@@ -244,10 +240,6 @@
     },
     {
       "name": "KADN (FOX) News 15 Lafayette LA",
-      "group": "LocalNow🇺🇸: More Cities"
-    },
-    {
-      "name": "WTVA (NBC) News 9 Tupelo MS",
       "group": "LocalNow🇺🇸: More Cities"
     },
     {
