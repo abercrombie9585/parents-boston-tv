@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-26T01:42:23.830803+00:00",
-  "programmes": 10957,
+  "updated_utc": "2026-09-26T07:51:46.890956+00:00",
+  "programmes": 8670,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -16,10 +16,10 @@
     },
     "XUMO": {
       "entries": 389,
-      "with_future_listings": 318
+      "with_future_listings": 317
     }
   },
-  "latest_programme_end": "20260927070029 +0000",
+  "latest_programme_end": "20260927230024 +0000",
   "source_errors": [],
   "uncovered": [
     {
@@ -837,6 +837,10 @@
     {
       "name": "The Ellen Channel",
       "group": "XUMO🇺🇸: Daytime TV"
+    },
+    {
+      "name": "Stingray Classic Rock",
+      "group": "XUMO🇺🇸: Music & Radio"
     },
     {
       "name": "Stingray Greatest Hits",
