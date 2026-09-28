@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-09-28T15:39:14.520697+00:00",
-  "programmes": 15144,
+  "updated_utc": "2026-09-28T22:09:25.055749+00:00",
+  "programmes": 12553,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 410
+      "with_future_listings": 409
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -217,6 +217,10 @@
     {
       "name": "Discovery Turbo TV",
       "group": "LocalNow🇺🇸: Sports"
+    },
+    {
+      "name": "WDRB Louisville KY",
+      "group": "LocalNow🇺🇸: More Cities"
     },
     {
       "name": "WFFT (FOX) News 55 Fort Wayne IN",
