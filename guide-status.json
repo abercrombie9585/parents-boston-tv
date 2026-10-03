@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-10-03T02:06:54.689117+00:00",
-  "programmes": 10852,
+  "updated_utc": "2026-10-03T08:19:07.502308+00:00",
+  "programmes": 8442,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -19,7 +19,7 @@
       "with_future_listings": 316
     }
   },
-  "latest_programme_end": "20261004062004 +0000",
+  "latest_programme_end": "20261005020024 +0000",
   "source_errors": [],
   "uncovered": [
     {
