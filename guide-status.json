@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-10-06T10:33:02.301447+00:00",
-  "programmes": 7559,
+  "updated_utc": "2026-10-06T17:17:49.579456+00:00",
+  "programmes": 14549,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 409
+      "with_future_listings": 410
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -16,10 +16,10 @@
     },
     "XUMO": {
       "entries": 389,
-      "with_future_listings": 316
+      "with_future_listings": 319
     }
   },
-  "latest_programme_end": "20261007123000 +0000",
+  "latest_programme_end": "20261008155252 +0000",
   "source_errors": [],
   "uncovered": [
     {
@@ -217,10 +217,6 @@
     {
       "name": "Discovery Turbo TV",
       "group": "LocalNow🇺🇸: Sports"
-    },
-    {
-      "name": "WDRB Louisville KY",
-      "group": "LocalNow🇺🇸: More Cities"
     },
     {
       "name": "WFFT (FOX) News 55 Fort Wayne IN",
@@ -841,18 +837,6 @@
     {
       "name": "The Ellen Channel",
       "group": "XUMO🇺🇸: Daytime TV"
-    },
-    {
-      "name": "Stingray Hot Country",
-      "group": "XUMO🇺🇸: Music & Radio"
-    },
-    {
-      "name": "Stingray Classic Rock",
-      "group": "XUMO🇺🇸: Music & Radio"
-    },
-    {
-      "name": "Stingray Greatest Hits",
-      "group": "XUMO🇺🇸: Music & Radio"
     },
     {
       "name": "Stingray Soul Storm",
