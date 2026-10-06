@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-10-06T17:17:49.579456+00:00",
-  "programmes": 14549,
+  "updated_utc": "2026-10-06T21:44:27.817452+00:00",
+  "programmes": 12814,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 410
+      "with_future_listings": 409
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -220,6 +220,10 @@
     },
     {
       "name": "WFFT (FOX) News 55 Fort Wayne IN",
+      "group": "LocalNow🇺🇸: More Cities"
+    },
+    {
+      "name": "WSYM FOX47 News Lansing",
       "group": "LocalNow🇺🇸: More Cities"
     },
     {
