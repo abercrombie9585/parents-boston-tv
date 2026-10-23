@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-10-22T22:29:41.764644+00:00",
-  "programmes": 12427,
+  "updated_utc": "2026-10-23T01:39:15.957078+00:00",
+  "programmes": 11081,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -16,7 +16,7 @@
     },
     "XUMO": {
       "entries": 389,
-      "with_future_listings": 316
+      "with_future_listings": 315
     }
   },
   "latest_programme_end": "20261024123433 +0000",
@@ -797,6 +797,10 @@
     {
       "name": "World's Wildest Police Videos",
       "group": "XUMO🇺🇸: Crime TV"
+    },
+    {
+      "name": "BBC Drama",
+      "group": "XUMO🇺🇸: Action & Drama"
     },
     {
       "name": "LOL Network",
