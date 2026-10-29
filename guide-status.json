@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-10-28T23:20:06.580487+00:00",
-  "programmes": 11955,
+  "updated_utc": "2026-10-29T02:34:35.487735+00:00",
+  "programmes": 10710,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -16,7 +16,7 @@
     },
     "XUMO": {
       "entries": 389,
-      "with_future_listings": 314
+      "with_future_listings": 313
     }
   },
   "latest_programme_end": "20261030141604 +0000",
@@ -784,6 +784,10 @@
     },
     {
       "name": "Motorvision",
+      "group": "XUMO🇺🇸: Automotive"
+    },
+    {
+      "name": "SPEEDVISION",
       "group": "XUMO🇺🇸: Automotive"
     },
     {
