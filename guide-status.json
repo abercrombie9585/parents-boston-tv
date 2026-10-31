@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-10-30T20:54:34.231050+00:00",
-  "programmes": 12767,
+  "updated_utc": "2026-10-31T00:53:09.743309+00:00",
+  "programmes": 11209,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -16,7 +16,7 @@
     },
     "XUMO": {
       "entries": 389,
-      "with_future_listings": 314
+      "with_future_listings": 312
     }
   },
   "latest_programme_end": "20261102011738 +0000",
@@ -819,6 +819,10 @@
       "group": "XUMO🇺🇸: Comedy"
     },
     {
+      "name": "WITZ Comedy TV",
+      "group": "XUMO🇺🇸: Comedy"
+    },
+    {
       "name": "Fork & Flight",
       "group": "XUMO🇺🇸: Food"
     },
@@ -833,6 +837,10 @@
     {
       "name": "Declassified",
       "group": "XUMO🇺🇸: History & Learning"
+    },
+    {
+      "name": "STELLAR",
+      "group": "XUMO🇺🇸: Black Voices. Black Stories."
     },
     {
       "name": "Barney and Friends",
