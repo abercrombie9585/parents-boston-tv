@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-10-31T22:36:34.642021+00:00",
-  "programmes": 11654,
+  "updated_utc": "2026-11-01T02:21:22.932388+00:00",
+  "programmes": 10245,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -16,10 +16,10 @@
     },
     "XUMO": {
       "entries": 389,
-      "with_future_listings": 312
+      "with_future_listings": 311
     }
   },
-  "latest_programme_end": "20261102060000 +0000",
+  "latest_programme_end": "20261102070000 +0000",
   "source_errors": [],
   "uncovered": [
     {
@@ -821,6 +821,10 @@
     {
       "name": "WITZ Comedy TV",
       "group": "XUMO🇺🇸: Comedy"
+    },
+    {
+      "name": "Western Bound Wrangled by INSP",
+      "group": "XUMO🇺🇸: Westerns & Country"
     },
     {
       "name": "Fork & Flight",
