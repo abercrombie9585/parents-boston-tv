@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-11-02T07:46:17.778120+00:00",
-  "programmes": 8641,
+  "updated_utc": "2026-11-02T18:33:17.644397+00:00",
+  "programmes": 13601,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -8,7 +8,7 @@
     },
     "LocalNow": {
       "entries": 447,
-      "with_future_listings": 409
+      "with_future_listings": 408
     },
     "FreeLiveSports": {
       "entries": 125,
@@ -19,7 +19,7 @@
       "with_future_listings": 312
     }
   },
-  "latest_programme_end": "20261103110000 +0000",
+  "latest_programme_end": "20261104121912 +0000",
   "source_errors": [],
   "uncovered": [
     {
@@ -120,6 +120,10 @@
     },
     {
       "name": "Trailer Park Boys",
+      "group": "LocalNow🇺🇸: Comedy"
+    },
+    {
+      "name": "Jamie Kennedy Comedy",
       "group": "LocalNow🇺🇸: Comedy"
     },
     {
