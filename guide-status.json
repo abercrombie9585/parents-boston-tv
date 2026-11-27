@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-11-26T22:26:54.656968+00:00",
-  "programmes": 12110,
+  "updated_utc": "2026-11-27T05:09:58.217064+00:00",
+  "programmes": 9511,
   "groups": {
     "Massachusetts": {
       "entries": 20,
@@ -16,10 +16,10 @@
     },
     "XUMO": {
       "entries": 389,
-      "with_future_listings": 306
+      "with_future_listings": 304
     }
   },
-  "latest_programme_end": "20261128130027 +0000",
+  "latest_programme_end": "20261128140027 +0000",
   "source_errors": [],
   "uncovered": [
     {
@@ -869,6 +869,14 @@
     {
       "name": "The Ellen Channel",
       "group": "XUMO🇺🇸: Daytime TV"
+    },
+    {
+      "name": "iHeart90s",
+      "group": "XUMO🇺🇸: Music & Radio"
+    },
+    {
+      "name": "iHeartCountry",
+      "group": "XUMO🇺🇸: Music & Radio"
     },
     {
       "name": "iHeartRadio Hip Hop Beats",
